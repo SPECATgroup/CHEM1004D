@@ -1,4 +1,4 @@
-# CHEM1004D Teaching Environment 2025
+# CHEM1004D Teaching Environment
 
 # Hands-on exercises with CP2K
 
@@ -8,6 +8,7 @@ For the hands-on exercises with CP2K:
 * A user documentation for working at CAUcluster is given on
 https://www.hiperf.rz.uni-kiel.de/caucluster/.
 * Further instructions on how to use a Linux Terminal and on how to run the test computation in ORGANISATION/TEST_COMP  are given in ORGANISATION/Organisational_Chem1004D_lab_course.pdf.
+* Please note that lecture slides are only provided on OpenOLAT due to copyright restrictions.
 
 # Further exemplary hands-on exercises 
 
